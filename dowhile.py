@@ -8,6 +8,7 @@ while start < 30 and start > 28:
 start-=1
 print(check)
 
+
 annual_income = 150000 # ingreso anual de Jack
 target_income = 1000000 # ingreso objetivo
 
