@@ -126,7 +126,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+# Permitir la carpeta vehicles_env
+!vehicles_env/
 # Environments
 .env
 .venv
